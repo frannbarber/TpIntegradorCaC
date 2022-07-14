@@ -1,0 +1,23 @@
+.fondo {
+    background-image: url(../Imagenes/hawaii.jpg);
+    height: 55rem;
+    
+   
+}
+.fondo-contenido {
+    background-color: rgb(0, 0, 0, .7);
+    font-size: larger;
+}
+.btn-green {
+    background-color: green;
+    color: white;
+}
+footer{
+    background-color: rgb(27, 27, 122);
+    bottom: 0;
+}
+.col-lg-12{
+    text-align: left;
+    background-color: lightblue;
+    border: none;
+}
